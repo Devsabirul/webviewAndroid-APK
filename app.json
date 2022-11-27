@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "SHISHIRP",
+    "slug": "SHISHIRP",
+    "version": "1.0.0",
+    "sdkVersion": "46.0.0",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.devsabirul.SHISHIRP"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
